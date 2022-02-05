@@ -1,6 +1,6 @@
-# app
+# Car booking app
 
-A new Flutter project.
+Egar.uz
 
 ## Getting Started
 
