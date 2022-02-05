@@ -1,6 +1,6 @@
 # Car booking app
 
-Egar.uz
+Ilovaning UI  qismi to'liq shaklda backend qismi ulansa bo'lgani...
 
 ## Getting Started
 
